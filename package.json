@@ -1,0 +1,16 @@
+{
+  "name": "formulario-roney",
+  "version": "1.0.0",
+  "description": "Formulário da matéria de programação backend.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Matheus Rafael",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.11",
+    "typescript": "^5.5.0-dev.20240511"
+  }
+}
